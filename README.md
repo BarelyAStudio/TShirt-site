@@ -4,6 +4,6 @@ made for a student client as part of my portfolio into transitioning to developi
 
 Used technologies:
 
-> Mobirise: to make the general pattern of the website easily.
+* Mobirise: to make the general pattern of the website easily.
 
-> Bootstrap: the default CSS library used by Mobirise.
+* Bootstrap: the default CSS library used by Mobirise.
