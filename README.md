@@ -1,4 +1,4 @@
-# TShirt-site sample
+# [TShirt-site](https://barelyastudio.github.io/TShirt-site/) sample
 a simple project of selling t-shirt using call to action, made for a student client.
 
 Used technologies:
