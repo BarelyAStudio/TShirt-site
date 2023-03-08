@@ -1,6 +1,5 @@
 # TShirt-site sample
-a simple project of selling t-shirt using call to action,
-made for a student client as part of my portfolio into transitioning to developing websites.
+a simple project of selling t-shirt using call to action, made for a student client.
 
 Used technologies:
 
